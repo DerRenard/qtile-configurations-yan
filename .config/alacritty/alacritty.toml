@@ -1,0 +1,9 @@
+[window]
+opacity = 0.90
+
+[font]
+size = 10.0
+
+[font.normal]
+family = "JetBrainsMonoNL Nerd Font"
+style = "Regular"
